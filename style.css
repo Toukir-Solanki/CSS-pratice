@@ -1,0 +1,17 @@
+#firstId {
+  color: brown;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.firstClass {
+  color: chocolate;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+#firstornot h1 {
+  color: blueviolet;
+}
+
+#back_learn {
+  color: indianred;
+  background-color: yellow;
+}
