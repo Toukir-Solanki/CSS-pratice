@@ -22,3 +22,27 @@
   width: 50px;
   background-color: black;
 }
+
+#aligh {
+  height: 400px;
+  width: 400px;
+  background-color: crimson;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: blanchedalmond;
+  text-transform: capitalize;
+  font-family: "Honk", system-ui;
+}
+
+#fontsize {
+  font-size: 40px;
+  font-family: "Honk", system-ui;
+}
+
+#nav {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 900;
+  background-color: black;
+  color: azure;
+}
